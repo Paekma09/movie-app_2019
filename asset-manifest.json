@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Paekma09/movie-app_2019/static/css/main.3735b506.css",
-    "main.js": "/Paekma09/movie-app_2019/static/js/main.3f034773.js",
-    "index.html": "/Paekma09/movie-app_2019/index.html",
-    "main.3735b506.css.map": "/Paekma09/movie-app_2019/static/css/main.3735b506.css.map",
-    "main.3f034773.js.map": "/Paekma09/movie-app_2019/static/js/main.3f034773.js.map"
+    "main.css": "/movie-app_2019/static/css/main.3735b506.css",
+    "main.js": "/movie-app_2019/static/js/main.3f034773.js",
+    "index.html": "/movie-app_2019/index.html",
+    "main.3735b506.css.map": "/movie-app_2019/static/css/main.3735b506.css.map",
+    "main.3f034773.js.map": "/movie-app_2019/static/js/main.3f034773.js.map"
   },
   "entrypoints": [
     "static/css/main.3735b506.css",
